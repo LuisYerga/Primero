@@ -17,3 +17,5 @@ function calculateResult() {
         document.getElementById('pantalla').value = 'Error';
     }
 }
+
+
